@@ -4,8 +4,8 @@
 name: Building WebApplication
 
 on:
-  push:
-    branches: [ "master" ]
+  #push:
+  #  branches: [ "master" ]
   pull_request:
     branches: [ "test_branch" ]
 
